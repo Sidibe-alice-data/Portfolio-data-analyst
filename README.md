@@ -74,8 +74,9 @@ Compétences développées : formules Excel, recherche de données, tableaux cro
 - Excel : formules, RECHERCHEV, tableaux croisés dynamiques et Power Query.
 - Power BI : préparation des données, visualisations et tableaux de bord.
 
-## Conclusion
+Conclusion
 
 Ces projets personnels m’ont permis de mettre en pratique les principales étapes d’une analyse de données : préparation, exploration, calcul des indicateurs, visualisation et interprétation des résultats.
 
 Je souhaite poursuivre cette progression au sein d’une équipe, dans un poste de Data Analyst junior, afin de contribuer à des analyses utiles à la prise de décision.
+
