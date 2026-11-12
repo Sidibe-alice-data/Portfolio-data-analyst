@@ -1,12 +1,14 @@
-Portfolio Data Analyst
+# Portfolio Data Analyst Junior
 
- Présentation
+## Présentation
 
-Bienvenue sur mon portfolio Data Analyst.
+Bienvenue sur mon portfolio de projets en analyse de données.
 
-Titulaire d’un Master en géomatique, géorisques, géo-environnement et géomatériaux, je suis en reconversion professionnelle vers l’analyse de données. Je développe mes compétences à travers des projets pratiques utilisant SQL, Excel et Power BI.
+Titulaire d’un Master en géomatique, géorisques, géo-environnement et géomatériaux, je suis en reconversion professionnelle vers le métier de Data Analyst junior.
 
-Mon objectif est de transformer des données en informations utiles pour comprendre une activité et faciliter la prise de décision.
+Je développe mes compétences à travers des projets pratiques utilisant SQL, Excel et Power BI.
+
+Mon objectif : transformer les données en informations utiles pour comprendre une activité et faciliter la prise de décision.
 
  Mes projets
 
