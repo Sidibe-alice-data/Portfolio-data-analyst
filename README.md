@@ -79,4 +79,9 @@ Conclusion
 Ces projets personnels m’ont permis de mettre en pratique les principales étapes d’une analyse de données : préparation, exploration, calcul des indicateurs, visualisation et interprétation des résultats.
 
 Je souhaite poursuivre cette progression au sein d’une équipe, dans un poste de Data Analyst junior, afin de contribuer à des analyses utiles à la prise de décision.
+Accès aux projets
+
+-Projet SQL : [Consulter le projet SQL](projet_sql_analyse_vente/)
+- Projet Excel : [Télécharger le fichier Excel](Analyse_des_ventes_Excel.xlsx)
+- Projet Power BI : [Consulter la présentation du projet](Presentation_Projet_Power_BI.docx) · [Télécharger le tableau de bord](projet%20power%20bi.pbix)
 
